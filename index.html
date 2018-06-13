@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- this is the whole document file -->
+<html>
+  <head>
+    <title>Magic 8 Ball</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- this is where the styling gets added -->
+    <link rel="stylesheet" href="main.css">
+    <!-- this is where the javascript magic gets added -->
+    <script src="index.js" defer></script>
+  </head>
+
+
+  <!-- body: it's the page content! -->
+  <body>
+
+    <!-- header: large text that appears first on the page -->
+    <h1>Magic 8 Ball</h1>
+
+    <!-- paragraph with a prompt written inside of it -->
+    <p>Type in your question:</p>
+
+    <!-- input text field -->
+    <input type="text" id="input" />
+
+    <!-- division or section of page that contains eight ball -->
+    <div class="eight-ball">
+      <div class="answer">
+
+        <!-- number 8 inside of eight ball -->
+        <p id="eight">8</p>
+
+        <!-- answer that will appear inside of eight ball -->
+        <p id="answer"></p>
+      </div>
+    </div>
+
+    <!-- shake button -->
+    <button id="button">
+      Shake
+    </button>
+  </body>
+</html>
+<!-- this is the end of the document file -->
