@@ -4,7 +4,7 @@ A basic HTML/CSS/JS walkthrough
 # Getting Started
 #### :rabbit: Option 1 (easy peasy)
 1. [Clone the repository](https://help.github.com/articles/cloning-a-repository/)
-2. Open up `index.js` and start with step #1. Use the Word Bank below if you need help.
+2. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
 #### :rabbit: Option 2 (if you don't have github setup)
 1. Create a `magic8ball` folder on your Desktop
@@ -18,7 +18,7 @@ A basic HTML/CSS/JS walkthrough
 4. In github, navigate to the `index.html` file and copy and paste the code into your newly created `index.html` file.
 5. In github, navigate to the `main.css` file and copy and paste the code into your newly created `main.css` file.
 6. In github, navigate to the `index.js` file and copy and paste the code into your newly created `index.js` file
-7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help.
+7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
 # Word Bank
 ```javascript
