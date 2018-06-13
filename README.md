@@ -22,7 +22,8 @@ A basic HTML/CSS/JS walkthrough
 
 # Word Bank
 ```javascript
-document.getElementById("magicWord");```
+document.getElementById("magicWord");
+```
 ```javascript
 magicButton.addEventListener("click", () => { insert_some_magic_here() });
 ```
