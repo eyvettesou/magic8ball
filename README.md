@@ -1,5 +1,5 @@
 # :8ball: :rabbit: :tophat: magic8ball :tophat: :rabbit: :8ball:
-A basic HTML/CSS/JS walkthrough
+A basic Javascript workshop that will walk through setting variables, conditionals, listening for events, and altering values. Join this one-hour workshop to learn how to learn how to build a magic 8 balls.
 
 # Getting Started
 #### :rabbit: Option 1 (easy peasy)
@@ -20,28 +20,47 @@ A basic HTML/CSS/JS walkthrough
 6. In github, navigate to the `index.js` file and copy and paste the code into your newly created `index.js` file
 7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
-# Word Bank
-```javascript
-document.getElementById("magicWord");
-```
-```javascript
-magicButton.addEventListener("click", () => { insert_some_magic_here() });
-```
-```javascript
-alert("Let the magic happen");
-```
+# Dictionary 
 ```javascript
 console.log("Let more magic happen");
 ```
+https://developer.mozilla.org/en-US/docs/Web/API/Console/log
+
 ```javascript
-magicWords.value;
+alert("Let the magic happen");
 ```
+https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
+
+```javascript
+document.getElementById("magicWord");
+```
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+
+```javascript
+magicButton.addEventListener("click", () => { insert_some_magic_here() });
+```
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+```javascript
+magicWordsFromInput.value;
+```
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement
+
 ```javascript
 magicWords.value.length;
 ```
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
+
 ```javascript
-magicBall.innerText = "More magic";
+magicBallButton.innerText = "More magic";
 ```
+https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText
+
 ```javascript
 Math.random();
 ```
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+# References
+- https://glitch.com/~silver-keyboard
+- https://developer.mozilla.org/en-US/
