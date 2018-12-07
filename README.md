@@ -22,12 +22,12 @@ A basic Javascript workshop that will walk through setting variables, conditiona
 
 # Dictionary 
 ```javascript
-console.log("Let more magic happen");
+console.log("Make more magic happen");
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/Console/log
 
 ```javascript
-alert("Let the magic happen");
+alert("Make the magic happen");
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
 
